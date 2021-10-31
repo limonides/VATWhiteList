@@ -2,7 +2,7 @@ import json
 import requests
 from datetime import datetime
 from functions.keys import Key
-from functions.comand_line import Color as c
+from functions.command_line import Color as c
 
 
 class Wl:

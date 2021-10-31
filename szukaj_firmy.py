@@ -1,6 +1,6 @@
 from functions.wl import Wl
 from functions.statuses import HttpStatuses
-from functions.comand_line import Color
+from functions.command_line import Color
 
 if __name__ == "__main__":
     while True:
